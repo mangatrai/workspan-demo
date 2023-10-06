@@ -1,6 +1,6 @@
 # Workspan Data Model Demo
 
-Welcome to the Workspan Data Model Demo repository. This repository provides insights into Workspan's data storage and access patterns, showcasing the powerful capabilities of Astra Vector Search and the LLM integration.
+Welcome to the Workspan Data Model Demo repository. This repository provides insights into data storage and access patterns, showcasing the powerful capabilities of Astra Vector Search and the LLM integration.
 
 ## 📌 Features
 

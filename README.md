@@ -22,5 +22,6 @@ Dive deep into the table schema, understand the structure, and check out the sam
 ## 📝 Notes
 
 - Always ensure you have the necessary dependencies installed to run the demo.
+- Please import the `workspan_logo.png` file, which is included in this repository, into the UI notebook directory.
 
 

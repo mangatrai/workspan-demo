@@ -12,12 +12,12 @@ Welcome to the Workspan Data Model Demo repository. This repository provides ins
 ### 🖥️ UI Demo 
 
 Experience the interactive UI demo that showcases the functionalities and the integration.
-- [Explore the UI Demo here](https://github.com/mangatrai/workspan-datamodel-demo/blob/main/Workspan_UI_Demo.ipynb)
+- [Explore the UI Demo here](https://github.com/mangatrai/workspan-demo/blob/main/Workspan_UI_Demo.ipynb)
 
 ### 📊 Table Schema, Sample Data Load, and Queries
 
 Dive deep into the table schema, understand the structure, and check out the sample data loaded into the system.
-- [Check out the detailed notebook here](https://github.com/mangatrai/workspan-datamodel-demo/blob/main/Workspan_Data_Model.ipynb)
+- [Check out the detailed notebook here](https://github.com/mangatrai/workspan-demo/blob/main/Workspan_Data_Model.ipynb)
 
 ## 📝 Notes
 
